@@ -22,9 +22,12 @@
     </div>
     <div class="design"></div>
   </div>
+  <homethird/>
+  
 </template>
 
 <script setup>
+import homethird from '../views/homethird.vue'
 // No script logic needed
 </script>
 
