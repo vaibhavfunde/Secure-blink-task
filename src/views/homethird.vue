@@ -149,13 +149,7 @@ left: 220px;
   justify-content: flex-start;
   min-width: 350px;
 }
-.card-image {
-  display: inline-block; /* or block */
-  width: 97px;
-  height: 97px;
-  background: url('@/assets/Group 35621.png') no-repeat center center;
-  background-size: cover; /* ensures image fits */
-}
+
 
 
 .card {
