@@ -32,7 +32,7 @@
 .page-wrapper {
   position: relative;
   width: 1920px;
-  height: 1080px;
+  height: 1498px;
   background: #fff;
   overflow: hidden;
 }
@@ -136,13 +136,12 @@
 /* DESIGN SVG - Bottom Right */
 .design {
   position: absolute;
-  right: 0;
-  bottom: 0;
-  top: 804px;
-  left: 1478px;
+
+  top: 760px;
+  left: 1578px;
   width: 560px;
   height: 581px;
-  
+
   background: transparent url('@/assets/Group 35650.svg') no-repeat center center;
   background-size: contain;
   opacity: 1;
